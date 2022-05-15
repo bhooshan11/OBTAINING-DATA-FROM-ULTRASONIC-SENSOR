@@ -5,11 +5,12 @@
 Distance of object= ((speed of sound in air) *time)/2
 
 ## Connections
-![]()
+![](https://github.com/bhooshan11/OBTAINING-DATA-FROM-ULTRASONIC-SENSOR/blob/main/circuit%20connection%20for%20ultrasonic%20sensor.png)
 
 ## Procedure
 *	Open Arduino ide and write the code 
-  code :https://github.com/bhooshan11/OBTAINING-DATA-FROM-ULTRASONIC-SENSOR/blob/main/task_7_ultrasonic_sensor.ino
+
+    code :https://github.com/bhooshan11/OBTAINING-DATA-FROM-ULTRASONIC-SENSOR/blob/main/task_7_ultrasonic_sensor.ino
 *	Save and verify the code 
 *	Make the connections as shown above
 *	Upload the code to esp32
